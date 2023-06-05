@@ -1,5 +1,7 @@
 # 20230615
 
+這們課程主要是要介紹Python的基礎使用方式，並以人臉辨識為例，進一步帶大家實作人臉辨識的應用。最後再跟著大家一起探索最近很夯的眾多AI應用，包含ChatGPT, Midjourney等等。
+
 ## 相關連結
 
 * [Python基礎講義](https://docs.google.com/presentation/d/140dHWSexhiarrdZVQ1Rf466LgfAlBQz2CPRtrToCe2Q/edit?usp=sharing)
