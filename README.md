@@ -5,6 +5,7 @@
 ## 相關連結
 
 * [Python基礎講義](https://docs.google.com/presentation/d/140dHWSexhiarrdZVQ1Rf466LgfAlBQz2CPRtrToCe2Q/edit?usp=sharing)
+* [trinket.io](https://trinket.io/)
 * [colab](https://colab.research.google.com/)
 * [Pillow](https://pillow.readthedocs.io/en/stable/)
 * [gradio](https://gradio.app/)
